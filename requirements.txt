@@ -8,7 +8,7 @@ boto==2.49.0
 botocore==1.23.54
 cached-property==1.5.2
 cement==2.8.2
-certifi=2020.6.20
+certifi==2020.6.20
 cffi==1.15.1
 charset-normalizer==2.0.12
 colorama==0.4.3
