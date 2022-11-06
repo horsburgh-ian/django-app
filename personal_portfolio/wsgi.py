@@ -15,4 +15,3 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'personal_portfolio.settings')
 
 application = get_wsgi_application()
 
-PYTHONPATH='/Users/iannick22/opt/anaconda3/envs/django3/rp_portfolio'
