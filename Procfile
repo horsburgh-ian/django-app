@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn rp_portfolio.wsgi
+web: gunicorn personal_portfolio.wsgi
