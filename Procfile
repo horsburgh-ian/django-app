@@ -1,1 +1,0 @@
-web:gunicorn personal_portfolio.wsgi:personal_portfolio
