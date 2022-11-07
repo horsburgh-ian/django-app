@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+.DS_Store
+db.sqlite3
+staticfiles
+mediafiles
+.env
+.idea
+env
+.idea/**/rp_portfolio
